@@ -70,6 +70,8 @@
 * 熟练使用网络三剑客：RxJava2,Retrofit2,OkHttp3
 * 熟练使用 EventBus 应付上万级别的消息管理
 * 代码简介无瑕疵使用 Kotlin(anko,ktx)
+* 熟悉使用Markdown
+
 
 
 ## 致谢
